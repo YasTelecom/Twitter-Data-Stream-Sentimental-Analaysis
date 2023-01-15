@@ -6,7 +6,7 @@ import time
 
 
 # Create a Kafka consumer to read tweets from the "en-tweets" and "fr-tweets" topics
-consumer = KafkaConsumer(*["en-tweets", "fr-tweets"], bootstrap_servers="localhost:9092", group_id =None, auto_offset_reset ='earliest')
+consumer = KafkaConsumer("ecology-tweets", bootstrap_servers="localhost:9092", group_id =None, auto_offset_reset ='earliest')
 
 # Create a Kafka producer to send tweets to the "positive-tweets" and "negative-tweets" topics
 producer = KafkaProducer(bootstrap_servers="localhost:9092")
