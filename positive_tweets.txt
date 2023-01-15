@@ -1,0 +1,254 @@
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'OMG! Stop single use plastics and masks! #Covid #mask #savePlanet https://t.co/8Py6jkzBpb', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'OMG! Stop single use plastics and masks! #Covid #mask #savePlanet https://t.co/8Py6jkzBpb', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@SecPerkinsStan in 30 years will covid be remembered like 90% positively by politically inclined people lol', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'OMG! Stop single use plastics and masks! #Covid #mask #savePlanet https://t.co/8Py6jkzBpb', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@SecPerkinsStan in 30 years will covid be remembered like 90% positively by politically inclined people lol', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'OMG! Stop single use plastics and masks! #Covid #mask #savePlanet https://t.co/8Py6jkzBpb', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@SecPerkinsStan in 30 years will covid be remembered like 90% positively by politically inclined people lol', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'You too can be a Covid Vaccine Ambassador after taking this online course at John Hopkins! Come! Join the mob of disciples so that we can spread the gospel! Vaccinelujah!\n\n#MuttonCrew #MuttoneCrewTraining 🐑🐏\n\n🧵https://t.co/VdQPeLCQeu https://t.co/hX12AuOy5Z', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "@vinayverma99 Well I haven't left wearing mask coz it protects u from dust bad odour too not just the covid thing.", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@backtolife_2023 Wow ..there you have it ladies..The Covid Vaccine has caused ZERO issues with getting pregnant and Zero miscarriages or issues with the child\n\nThe Covid 19 Vaccines sound like a miracle medicine for pregnant women.. Since you have limited protection may need em monthly', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': "Something I'm so grateful for with my job is that I get paid for being out sick with COVID. ;_; and I don't even have to use my sick hours. God bless. https://t.co/mgZzW84RUr", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Visit Briggs Chaney Walk-In Clinic today to get the medical attention you need. We are open seven days a week, accepting new patients and see you soon!\n\n#urgentcare #healthcare #covid #health #primarycare #doctor #telemedicine #medicine #familymedicine #medical #walkinclinic ... https://t.co/VTGMzK2Szt', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@MartinNeil9 Thank you. Interesting analysis covering the 5 areas mentioned frequently. In my lay person speculation, I wander whether more data about excess death ages, causes of death, and covid related information may help?. But may not be readily available', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@dhogaza2 @jonathanstea Agree with you on that one. But they do give me wonderful ability to understand how studies are run and be able to discern a study that was paid for and bought. mRNA may be right for a lot of people. Take it if its right for you. It is not right for me as a defense to COVID.', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@leilahlowe @enelra5 @madShana @hannadjh @Salvester001 @ThePhightins33 @Fridaygirl1969 @Mountaingal456 @nm9139 Hi girls, hoping things get better soon for our ‘patients’ soon. Got the flu shot yesterday and picked up my 8 free covid home tests. I have a feeling I’m going to need them this winter. 🤦🏻\u200d♀️ sending love and hugs and hope everyone has a better day! ♥️♥️', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '"Xi Jinping’s Covid Crisis Is Really an Opportunity" by Minxin Pei via NYT https://t.co/qGKLhxsk4r', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'OMG! Stop single use plastics and masks! #Covid #mask #savePlanet https://t.co/8Py6jkzBpb', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'All About COVID-19 Vaccine and Boosters. \nVaccines and boosters help to protect yourself and others. Vaccines and boosters protect against new variants. Visit https://t.co/3N2xDx9WBl for more information, locations and vaccination/booster events. \n\n#covidbooster #COVID19', 'lang': 'en', 'date': '2022-12-14 16:25:15+00:00', 'sentiment': 'False', 'topic': 'positive-tweets'}
+
+{'content': "Coming up this weekend! It's never too late to take steps to protect yourself and your family. Every vaccine makes our community a little safer! \n\n#COVID #vaccine #COVIDVaccine #protect #community #safety https://t.co/9hEsvsqD5T", 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'DYK? The Health Department is offering free COVID-19 test kits to anyone hosting an event or celebration! \n\nLearn more about the Tests For Your Guests program and apply today. ⤵️https://t.co/b8ZN33d0ip', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': 'Dedicated street teams joined the NHS Covid 19 mobile vaccination team in Leicester over the weekend, encouraging people to get their Covid 19 vaccination in time for the holiday period. \n\nhttps://t.co/1qGt2CRpon \n\n#GetVaxxedStayOnTrack https://t.co/b8HDNwkS3f', 'lang': 'en', 'topic': 'positive-tweets'}
+
+{'content': '@saminalberta @D_Bone The best professionals out there. Dr. peter McCullough is one of the most qualified doctors on the subject of Covid 19 and the damage these vaccines have done.  Especially the Myocarditis.  One politician that has the guts to bring out the truth.  Why don’t you listen to', 'lang': 'en', 'topic': 'positive-tweets'}
+
