@@ -21,7 +21,7 @@ producer = KafkaProducer(bootstrap_servers="localhost:9092")
 paginator = tweepy.Paginator(
     client.search_recent_tweets, 
     query=query, 
-    tweet_fields=['lang'], 
+    tweet_fields=['lang', 'created_at'], 
     max_results=100
     )
 
