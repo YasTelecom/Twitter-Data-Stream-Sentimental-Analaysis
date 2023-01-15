@@ -9,7 +9,7 @@ client = tweepy.Client(bearer_token=bearer_token)
 
 
 # Parameters
-nMaxTweet = 100
+nMaxTweet = 10000
 keyword = 'ecology' 
 query = keyword + ' -is:retweet'
 topic_name = 'ecology-tweets'
@@ -25,22 +25,28 @@ paginator = tweepy.Paginator(
     max_results=100
     )
 
-# add tweet to topic in a json
-while True :
-    for tweet in paginator.flatten(limit=nMaxTweet):
+i = 0
+for tweet in paginator.flatten(limit=nMaxTweet):
+
+    i += 1
+    content = str(tweet.text)
+    lang = str(tweet.lang)
+    date = str(tweet.created_at)
+
+    tweet_dict = {
+        "content": content,
+        "lang": lang,
+        "date": date
+    }
     
-        content = str(tweet.text)
-        lang = str(tweet.lang)
+    if tweet_dict["lang"] == 'en':
+        # print(tweet_dict["lang"])
+        tweet = json.dumps(tweet_dict).encode('utf-8')
+        producer.send(topic_name, tweet)
+        # print("Sending message {} to topic: {}".format(tweet, topic_name)) 
 
-        tweet_dict = {
-            "content": content,
-            "lang": lang,
-        }
-        if tweet_dict["lang"] == 'en':
-            # print(tweet_dict["lang"])
-            tweet = json.dumps(tweet_dict).encode('utf-8')
-            producer.send(topic_name, tweet)
-            # print("Sending message {} to topic: {}".format(tweet, topic_name)) 
-
-    nMaxTweet = 5
-    time.sleep(1)
+    if i > 100  == 0:
+        time.sleep(1)
+    
+    if i > 100 == 0 and i%5:
+        time.sleep(1)
