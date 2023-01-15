@@ -1,7 +1,7 @@
 import tweepy
 import json
 import time
-# from kafka import KafkaProducer
+from kafka import KafkaProducer
 
 # Configure the authentication keys for the Twitter API
 bearer_token="AAAAAAAAAAAAAAAAAAAAAMxXkAEAAAAAFC3teGdOH64EKRkhCiWANfWxwvk%3DvPTipAtXE0gr2YHUcBTp0MQ8bYz65LAbRyiiGLFIbCTvw4FZiD"
@@ -15,7 +15,7 @@ query = keyword + ' -is:retweet'
 topic_name = 'ecology-tweets'
 
 # Producer
-# producer = KafkaProducer(bootstrap_servers="localhost:9092")
+producer = KafkaProducer(bootstrap_servers="localhost:9092")
 
 # Paginator
 paginator = tweepy.Paginator(
@@ -37,10 +37,10 @@ while True :
             "lang": lang,
         }
         if tweet_dict["lang"] == 'en':
-            print(tweet_dict["lang"])
-        tweet = json.dumps(tweet_dict).encode('utf-8')
-        # producer.send(topic_name, tweet)
-        # print("Sending message {} to topic: {}".format(tweet, topic_name)) 
+            # print(tweet_dict["lang"])
+            tweet = json.dumps(tweet_dict).encode('utf-8')
+            producer.send(topic_name, tweet)
+            # print("Sending message {} to topic: {}".format(tweet, topic_name)) 
 
     nMaxTweet = 5
     time.sleep(1)
