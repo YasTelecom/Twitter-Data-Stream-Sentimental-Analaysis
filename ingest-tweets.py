@@ -9,7 +9,7 @@ client = tweepy.Client(bearer_token=bearer_token)
 
 
 # Parameters
-nMaxTweet = 10000
+nMaxTweet = 1000000
 keyword = 'ecology' 
 query = keyword + ' -is:retweet'
 topic_name = 'ecology-tweets'
