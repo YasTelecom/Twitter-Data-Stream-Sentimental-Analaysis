@@ -22,7 +22,7 @@ paginator = tweepy.Paginator(
     client.search_recent_tweets, 
     query=query, 
     tweet_fields=['lang', 'created_at'], 
-    max_results=100
+    max_results=2000
     )
 
 i = 0
@@ -45,8 +45,8 @@ for tweet in paginator.flatten(limit=nMaxTweet):
         producer.send(topic_name, tweet)
         # print("Sending message {} to topic: {}".format(tweet, topic_name)) 
 
-    if i > 100  == 0:
+    '''if i > 100  == 0:
         time.sleep(1)
     
     if i > 100 == 0 and i%5:
-        time.sleep(1)
+        time.sleep(1)'''

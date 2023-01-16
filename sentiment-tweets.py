@@ -121,24 +121,31 @@ for msg in consumer:
         producer.send("negative-tweets", tweet)
         # print("A negative tweets have been added to the negative-tweets topic") 
 
-    if j%1000==0:
+    if j%400==0:
+        t=time.time()
+        if j%2000==0 or j==400:
+          all_tweets = df['tweet'].str.cat(sep=' ')
+          wordcloud = tweets_to_worldCloud(all_tweets)
+          wordcloud.to_file("wordcloud.png")
 
-        all_tweets = df['tweet'].str.cat(sep=' ')
-        all_tweets_positive=df[df['sentiment']=='Positive']['tweet'].str.cat(sep=' ')
-        all_tweets_neutral=df[df['sentiment']=='Neutral']['tweet'].str.cat(sep=' ')
-        all_tweets_negative=df[df['sentiment']=='Negative']['tweet'].str.cat(sep=' ')
-        #print(all_tweets[j-10:j])
-        wordcloud = tweets_to_worldCloud(all_tweets)
-        wordcloud.to_file("wordcloud.png")
-        
-        wordcloud = tweets_to_worldCloud(all_tweets_positive)
-        wordcloud.to_file("positive.png")
-        
-        wordcloud = tweets_to_worldCloud(all_tweets_neutral)
-        wordcloud.to_file("neutral.png")
+        if j%2400==0 or j==400:
+          all_tweets_positive=df[df['sentiment']=='Positive']['tweet'].str.cat(sep=' ')
+          wordcloud = tweets_to_worldCloud(all_tweets_positive)
+          wordcloud.to_file("positive.png")
 
-        wordcloud = tweets_to_worldCloud(all_tweets_negative)
-        wordcloud.to_file("negative.png")
+        if j%2800==0 or j==400:
+          all_tweets_neutral=df[df['sentiment']=='Neutral']['tweet'].str.cat(sep=' ')
+          wordcloud = tweets_to_worldCloud(all_tweets_neutral)
+          wordcloud.to_file("neutral.png")
+
+        if j%3200==0 or j==400:
+          all_tweets_negative=df[df['sentiment']=='Negative']['tweet'].str.cat(sep=' ')
+          wordcloud = tweets_to_worldCloud(all_tweets_negative)
+          wordcloud.to_file("negative.png")
+
+
+
+
 
        
         positive_rows = df.loc[df['sentiment'] == 'Positive']
@@ -153,11 +160,11 @@ for msg in consumer:
         neutral_percent = int((neutral_count / total_count) * 100)
         negative_percent = int((negative_count / total_count) * 100)
 
-        print(positive_count)
-        print(positive_percent)
+        #print(positive_count)
+        #print(positive_percent)
         
         html_table = df.tail(10).to_html()
-
+        print("it took", time.time()-t)
         template = Template("""
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -165,7 +172,7 @@ for msg in consumer:
 <script>
     setTimeout(function(){
        location.reload();
-    }, 5000);
+    }, 1000);
     </script>
 
 
