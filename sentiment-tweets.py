@@ -121,7 +121,7 @@ for msg in consumer:
         producer.send("negative-tweets", tweet)
         # print("A negative tweets have been added to the negative-tweets topic") 
 
-    if j%100==0:
+    if j%1000==0:
 
         all_tweets = df['tweet'].str.cat(sep=' ')
         all_tweets_positive=df[df['sentiment']=='Positive']['tweet'].str.cat(sep=' ')
@@ -165,7 +165,7 @@ for msg in consumer:
 <script>
     setTimeout(function(){
        location.reload();
-    }, 1000);
+    }, 5000);
     </script>
 
 
