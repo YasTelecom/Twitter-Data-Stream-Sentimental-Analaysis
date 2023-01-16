@@ -156,9 +156,9 @@ for msg in consumer:
         negative_count = negative_rows.shape[0]
 
         total_count = positive_count + neutral_count + negative_count
-        positive_percent = int((positive_count / total_count) * 100)
-        neutral_percent = int((neutral_count / total_count) * 100)
-        negative_percent = int((negative_count / total_count) * 100)
+        positive_percent = round((positive_count / total_count) * 100)
+        neutral_percent = round((neutral_count / total_count) * 100)
+        negative_percent = round((negative_count / total_count) * 100)
 
         #print(positive_count)
         #print(positive_percent)

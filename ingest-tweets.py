@@ -22,7 +22,7 @@ paginator = tweepy.Paginator(
     client.search_recent_tweets, 
     query=query, 
     tweet_fields=['lang', 'created_at'], 
-    max_results=2000
+    max_results=100
     )
 
 i = 0
